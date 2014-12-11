@@ -2,41 +2,50 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	width:980px;
-    background-color: #d1e3fe;
+   background-color: gray;
 }
 
 header {
 	vertical-align: middle;
-	background:blue;
+	background: #11aaff;
 	width:980px;
 	height: 200px;
-	line-height: 200px;
+	
+}
+
+nav {
+	background-color: #11aaff;
+	padding: 30px;
+	font-family: "Arial";
 }
 
 article {
 	background-color: white;
+	padding: 50px;
 }
 
-h1 {
-    color: orange;
-    text-align: center;
+#title {  
+   color: black;
+   line-height: 200px;
+   text-align: center;
 }
 
 p {
 	text-align: justify;
-    font-family: "Times New Roman";
-    font-size: 20px;
+   font-family: "Arial";
+   font-size: 20px;
 }
 
 #div1 {
 	width:200px;
 	height: 200px;
 	background:black;	
-	color: #0000ff;
+	color: #ffff00;
 	font-size: 15px;	
 }
 
 footer {
-	height: 200px;
-	background:blue;
+	height: 100px;
+	background: #11aaff;
+	padding: 30px
 }
