@@ -7,7 +7,8 @@ body {
 
 header
 {
-	text-align: center;
+	
+	
 	background:blue;
 	width:980px;
 	height: 200px;
@@ -26,7 +27,6 @@ h1 {
 
 p {
 	text-align: justify;
-	vertical-align: middle;
     font-family: "Times New Roman";
     font-size: 20px;
 }
