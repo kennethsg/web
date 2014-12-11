@@ -6,11 +6,11 @@ body {
 }
 
 header {
+	display: inline-block;
 	vertical-align: middle;
 	background:blue;
 	width:980px;
 	height: 200px;
-	line-height: 200px;
 }
 
 article {
