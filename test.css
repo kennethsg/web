@@ -1,5 +1,22 @@
 body {
+	margin-left: auto;
+	margin-right: auto;
+	width:980px;
     background-color: #d1e3fe;
+}
+
+header
+{
+	text-align: center;
+	background:blue;
+	width:980px;
+	height: 200px;
+	
+}
+
+article
+{
+	background-color: white;
 }
 
 h1 {
@@ -8,6 +25,8 @@ h1 {
 }
 
 p {
+	text-align: justify;
+	vertical-align: middle;
     font-family: "Times New Roman";
     font-size: 20px;
 }
@@ -16,9 +35,13 @@ p {
 
 	width:200px;
 	height: 200px;
-	background:white;	
+	background:black;	
 	color: #0000ff;
-	font-size: 15px;
-	
-	
+	font-size: 15px;	
+}
+
+footer
+{
+	height: 200px;
+	background:blue;
 }
